@@ -1,0 +1,33 @@
+.Pokecard {
+    background: #070743;
+    color:#fff;
+
+    margin:1rem;
+    border-radius:20px;
+}
+
+.Pokecard-name {
+    font-size:1.3rem;
+    font-weight: bold;
+    padding:1rem;
+}
+
+.Pokecard-img {
+    margin-top:-20px;
+}
+
+.Pokecard-bottom {
+    background:#d74b4b;
+    padding:1rem;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    letter-spacing: 1px;
+}
+.Pokecard-bottom span {
+    font-weight: bold;
+}
+
+.Pokecard-type {
+
+    margin:0;
+}

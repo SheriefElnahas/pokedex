@@ -1,0 +1,11 @@
+.Pokedex {
+    max-width:750px;
+    margin:0 auto;
+    text-align: center;
+}
+
+.Pokedex-pokemons {
+    display:grid;
+    grid-template-columns: repeat(4,1fr)
+}
+
